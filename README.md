@@ -8,7 +8,7 @@ Reference:
 
 2. http://www.louisaslett.com/RStudio_AMI/
 
-Easy to deploy Rstudio by following the youtube video and download the "RStudio Server Amazon Machine Image (AMI)" from the second link.
+Easy to deploy Rstudio by following the youtube video and download the "RStudio Server Amazon Machine Image (AMI)" from the second link. The Public DNS is your home page of your Rsudio application.
 
 ###  Inportant: Program will keep running in the backend even the browser is closed.
 
